@@ -21,6 +21,7 @@ const pTask = document.createElement('p');
 pTask.textContent = 'In this task you have to reproduce this HTML page as is using only JavaScript. The task will be evaluated on the basis of the following DOM manipulation techniques:';
 
 const ul = document.createElement('ul');
+const ul1 = document.createElement('ul');
 
 const li1 = document.createElement('li');
 li1.classList.add('even');
